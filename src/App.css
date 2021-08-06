@@ -1,0 +1,118 @@
+
+*{
+  background-color:#1e2e4e ;
+}
+
+#pic {
+  margin-left: 2%;
+  margin-top: 8%;
+  width:53%;
+    /* height: 50%; */
+  border-radius: 25%;
+  
+}
+.div2 {
+  background-image: url("CSE.png");
+  margin-left: 32.5%;
+  margin-top: 4%;
+  width: 350px;
+  height: 500px;
+  padding: 10px;
+  border: 7px solid rgb(233, 182, 116);
+  box-sizing: border-box;
+  border-radius: 15px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: left; 
+  padding: 0;
+  
+
+}
+.data{
+  font-size:Large;
+  margin-left: 10px;
+  max-width: 90%;
+  text-align: center;
+  background-color: rgba(165, 165, 165, 0.822);
+  font-weight: 900;
+  font-family: Didot, serif;
+  
+}
+
+#tf{
+  margin-top: 18%;
+  padding: 10px;
+  font-weight: 600;
+  margin-left: 4%;
+
+  background-color: rgba(180, 180, 180, 0.473);
+  width:80%;
+  
+  border: 1px solid black;
+  border-radius: 10px;
+}
+#barcode{
+  display: inline-block;
+  margin-left: 1%;
+  margin-top: 8.8%;
+  max-width: 70%;
+  width: 43%;
+  max-height: 10%;
+  height: 8.2%;
+ 
+}
+#sign{
+  display: inline-block;
+  background-color: #5ce1e6;
+  margin-left: -14%;
+  margin-right: 0%;
+  margin-bottom: 3.8%;
+  width: 8%;
+  
+}
+#signtext{
+  background-color: #5ce1e6;
+  display: inline-block;
+  /* margin-bottom: 50%; */
+  /* margin-top: 100%; */
+  margin-left: 25%;
+  font-size: 14px;
+  margin-top: 17%;
+}
+
+#logo{
+  margin-left: 63%;
+  background-color: white;
+  width: 35%;
+  border-radius: 10px;
+  margin-top: -55%;
+
+}
+.CSE{
+  background: white;
+  width: 150px;
+  height: 20px;
+  margin-left: 54%;
+  margin-bottom: 0%;
+}
+.container2{
+  display: flex;
+    flex-flow: column wrap;
+    align-content: flex-start;
+
+}
+.CSEtxt{
+  margin-left: 12%;
+  margin-bottom: 0%;
+  background-color: white;
+  font-size: 70px;
+  color: red;
+
+}
+.year{
+  background-color: white;
+  color: blue;
+  margin-left: 25%;
+  margin-top:0px;
+  margin-bottom:8px;
+}
